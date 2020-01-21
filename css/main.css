@@ -1,0 +1,22 @@
+/* Inserta tu codigo aqui */
+#logo{
+    height: 70px;
+}
+.semilla{
+    background-image: url("/comunidad-sostenible/img/semilla.jpg");
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+}
+.lorem{
+    text-align: center;
+    margin-top: 70px;
+    font-size: 12px;
+}
+.navbar li{
+    margin:  15px 5px;
+}
+.mision{
+    text-align: center;
+   
+}
