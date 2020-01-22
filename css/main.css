@@ -9,7 +9,6 @@
     background-position: center;
 }
 .lorem{
-    text-align: center;
     margin-top: 70px;
     font-size: 12px;
 }
@@ -17,6 +16,25 @@
     margin:  15px 5px;
 }
 .mision{
-    text-align: center;
-   
+    margin-top: 50px;
+    font-size: 12px;
+}
+.metodo, .fondo{
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.metodo{
+    background-image: url("/comunidad-sostenible/img/metodo.JPG");
+}
+.fondo{
+    background-image: url("/comunidad-sostenible/img/fondo.jpg");
+    padding-top: 100px;
+    color: white;
+    font-size: 12px;
+}
+.sinpadding{
+    padding: 0;
 }
